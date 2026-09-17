@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const client = new DigestFetch("admin", "Xpto@2026");
+const client = new DigestFetch("admin", "9CLcj@MjcQq07");
 
 const MAX_TENTATIVAS = 3;
 
